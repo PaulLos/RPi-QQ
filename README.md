@@ -1,4 +1,4 @@
 # RPi-QQ
 Raspberry PI scans code to QuickQuest
 
-COPYRIGHT (C) 2012 Pavel Losev. All rights reserved.
+COPYRIGHT (C) 2018 Pavel Losev. All rights reserved.
