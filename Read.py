@@ -21,6 +21,7 @@
 #    along with MFRC522-Python.  If not, see <http://www.gnu.org/licenses/>.
 #
 
+import time
 import RPi.GPIO as GPIO
 import MFRC522
 import signal
