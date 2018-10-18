@@ -45,6 +45,12 @@ try:
  
       # Print UID
       print("UID: "+str(uid[0])+","+str(uid[1])+","+str(uid[2])+","+str(uid[3]))
+      payload = {
+            "id":2,
+            "number_card": str(uid[0])+str(uid[1])+str(uid[2])+str(uid[3])    
+        }
+       return_query = query("read_card", payload)
+       print(return_query)
  
       time.sleep(3)
  
