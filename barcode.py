@@ -3,7 +3,7 @@ import sys
 import requests
 import json
 
-api_key = 88006F0BCE8041CBAA13D380F7CE53A1 #https://upcdatabase.org/
+api_key = "88006F0BCE8041CBAA13D380F7CE53A1" #https://upcdatabase.org/
 
 def barcode_reader():
     """Barcode code obtained from 'brechmos' 
